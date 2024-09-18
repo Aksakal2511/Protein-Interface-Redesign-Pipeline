@@ -53,8 +53,9 @@ To run the full pipeline:
 1. Prepare Input Data: Ensure you have two PDB files of Prot_A complexed with Prot_B and Prot_C, respectively.
 2. Run the Master Script:
    ./master_script.sh PDB1 CHAIN1 PDB2 CHAIN2 MUTATION
-   Example:
-   ./master_script.sh 6M0J E 7Z0X R GLU
+   
+Example: ./master_script.sh 6M0J E 7Z0X R GLU
+
 3. Review Results: The final results including the free energy profiles and histograms will be found in the results/ directory.
 
 Notes
