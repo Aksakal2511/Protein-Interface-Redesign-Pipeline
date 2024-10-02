@@ -11,7 +11,7 @@ The pipeline includes:
 - Umbrella sampling to calculate binding affinities
 - Polar contact analysis between the proteins
 
-The pipeline is executed in a High-Performance Computing (HPC) environment using GROMACS, PyMOL, and Python scripts.
+The pipeline is executed in a High-Performance Computing (HPC) environment using GROMACs and PyMOL.
 
 Example Use Case:
 - Prot_A: SARS-CoV-2 spike protein
